@@ -4,4 +4,10 @@ figure {
 
 .genreCard * {
     text-align: left;
+    text-decoration: none;
+}
+
+.bookTitle {
+    text-transform: uppercase;
+    color: goldenrod
 }
