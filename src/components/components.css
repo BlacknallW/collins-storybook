@@ -4,13 +4,21 @@ figure {
 
 .genreCard * {
   text-align: left;
+  text-decoration: none;
 }
 
 button {
   color: white;
   background-color: goldenrod;
 }
+
 button:hover {
   color: goldenrod;
   background-color: white;
 }
+
+.bookTitle {
+    text-transform: uppercase;
+    color: goldenrod
+}
+
