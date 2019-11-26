@@ -4,9 +4,7 @@ import { withKnobs, text, object } from "@storybook/addon-knobs";
 
 import Title from "../components/Title";
 
-const TitleStyle = {
-  fontSize: "24px"
-};
+
 storiesOf("Title", module)
   .addDecorator(withKnobs)
   .add("with string", () => {

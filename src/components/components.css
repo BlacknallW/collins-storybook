@@ -1,24 +1,23 @@
 figure {
-  text-align: center;
+	text-align: center;
 }
 
 .genreCard * {
-  text-align: left;
-  text-decoration: none;
+	text-align: left;
+	text-decoration: none;
 }
 
 button {
-  color: white;
-  background-color: goldenrod;
+	color: white;
+	background-color: goldenrod;
 }
 
 button:hover {
-  color: goldenrod;
-  background-color: white;
+	color: goldenrod;
+	background-color: white;
 }
 
 .bookTitle {
-    text-transform: uppercase;
-    color: goldenrod
+	text-transform: uppercase;
+	color: goldenrod;
 }
-
